@@ -1,6 +1,6 @@
 # Decrypto
 
-https://whoawhoa.github.io/decrypto/
+https://cpuchi.github.io/decrypto/
 
 ## Decrypto - How To Play
 
